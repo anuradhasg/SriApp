@@ -1,0 +1,7 @@
+How to compile SriApp:
+----------------------
+javac SriApp.java
+
+To see the output:
+-----------------
+java SriApp
